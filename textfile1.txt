@@ -7,3 +7,14 @@ Integration testing
 Integration testing is the combined execution of two or more classes, packages, components, or subsystems that have been created by multiple programmers or programming teams
 Integration testing is usually done by the developer
 both white and black box testing
+
+System Testing :
+1. A level of testing that validates the complete and fully integrated software product
+2. Testers
+3. BlackBox
+
+Acceptance Testing :
+1. A level of software testing where a system is tested for acceptability
+2. Developers
+3. WhiteBox
+
