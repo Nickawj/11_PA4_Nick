@@ -1,0 +1,9 @@
+Unit testing
+Unit testing is the execution of a complete class, routine or small program that has been written by a single programmer or team of programmers, which is tested in isolation from the more complete system
+Unit testing is usually done by the developer
+whitebox  testing
+
+Integration testing
+Integration testing is the combined execution of two or more classes, packages, components, or subsystems that have been created by multiple programmers or programming teams
+Integration testing is usually done by the developer
+both white and black box testing
